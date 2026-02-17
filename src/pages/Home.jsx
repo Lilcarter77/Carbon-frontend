@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import logo from "../assets/Carbon Tracker.png";
 import earthImage from "../assets/earth_image.png";
 import childMaskImage from "../assets/child_mask.jpg";
 
